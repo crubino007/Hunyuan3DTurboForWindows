@@ -3,6 +3,10 @@ Hunyuan 3D Turbo For Windows
 This is a portable version of Huanyuan 3D Turbo for Windows.
 It can run on a mid-end PC with NVIDIA RTX 8GB card, 32GB DDR4 RAM and i5 11400F (or equal CPU). Using a high speed NVME is highly recommended. 
 
+<p align="center">
+  <img src="https://i.imgur.com/9pAcTex.jpeg" alt="Alt text">
+</p>
+
 How to install:
 - Download my main file from here:
 - Extract it to your local folder. The password for the zipped file is crubino
