@@ -25,7 +25,7 @@ How to use:
 - You can manually access your local server by type URL : http://127.0.0.1:8080 on your internet browser
 
 Tips:
-- You can get your 3D model with textured results from \Hunyuan3D\code\gradio_cache\ folder in glb file format.
+- You can get your 3D model with textured results from your \Hunyuan3D\code\gradio_cache\ local folder in glb file format.
 
 General notes:
 - In mid-end PCs, it may generate 3D models fast but it will take a longer time to create its texture.
