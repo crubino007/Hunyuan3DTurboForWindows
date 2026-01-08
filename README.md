@@ -22,6 +22,9 @@ How to use:
 - It will automatically open your internet browser. Sometimes it is blank, but do not worry about it, once the local server load is complete it will automatically refresh it. If it is still blank after the local server is loaded, then you simply need to press the refresh button on your internet browser. 
 - You can manually access your local server by type URL : http://127.0.0.1:8080 on your internet browser
 
+Tips:
+- You can get your 3D model with textured results from \Hunyuan3D\code\gradio_cache\ folder in glb file format.
+
 General notes:
 - In mid-end PCs, it may generate 3D models fast but it will take a longer time to create its texture.
 - The full version (with 3 options fully installed) will need up to 50GB of your SSD space. Therefore, if you have a limited space, then please just choose and run only one option of them. 
