@@ -43,7 +43,8 @@ General notes:
 
 Happy AI and cheers,
 
-CRubino (Chris Rubino)
+Chris Rubino
+AKA. CRubino
 
 
 Support me via my PayPal:
