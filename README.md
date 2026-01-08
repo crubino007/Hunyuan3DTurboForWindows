@@ -5,7 +5,7 @@ It can run on a mid-end PC with NVIDIA RTX 8GB card, 32GB DDR4 RAM and i5 11400F
 
 How to install:
 - Download my main file from here:
-- Extract to your local folder.
+- Extract it to your local folder.
 - Go to the "options" folder inside the main folder
 - Run one batch file of 3 options that are available : single-view, multi-view and with text input
 - Each option has their own model files, and it automatically downloads from Huggingface on your first run.
