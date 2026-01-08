@@ -22,6 +22,10 @@ General notes:
 - The full version (with 3 options fully installed) will need up to 50GB of your SSD space. Therefore, if you have a limited space, then please just choose and run only one option of them. 
 - The option with text input will have 2-3x larger AI model files which need to be downloaded from Huggingface. It also needs 2-3x times CPU/GPU resources as command prompt will need longer time to be processed than image based AI prompt.
 
+
+
+
+
 Happy AI and cheers,
 
 CRubino (Chris Rubino)
