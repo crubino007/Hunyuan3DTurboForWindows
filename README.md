@@ -40,3 +40,16 @@ General notes:
 Happy AI and cheers,
 
 CRubino (Chris Rubino)
+
+
+Support me via my PayPal:
+https://paypal.me/crubino7
+
+Support me by buying my VR Games:
+https://https://crubino.itch.io/
+
+Support me via my Patreon:
+https://www.patreon.com/c/crubino
+
+My YouTube channel:
+https://www.youtube.com/@crub1n0
