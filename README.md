@@ -1,6 +1,7 @@
 Hunyuan 3D Turbo For Windows
 
 This is a portable version of Huanyuan 3D Turbo for Windows.
+It can run on a mid-end PC with NVIDIA RTX 8GB card, 32RAM and i5 11400F (or equal CPU). Using a high speed NVME is highly recommended. 
 
 How to install:
 - Download my main file from here:
@@ -13,5 +14,10 @@ How to install:
 How to use:
 - double click one of the batch files that you like (e.g run-turbo-multiview.bat file).
 - On initialization it will download its model AI files from Huggingface server, wait until it finishes.
-- It will automatically open your internet browser. Sometimes it is blank, but do not worry about it, once the local server load is complete it will automatically refresh it. If it is still blank after local server is loaded, then you simply need to press the refresh button on your internet browser. 
-- You can manually access your local server by type URL : http://127.0.0.1:8080
+- It will automatically open your internet browser. Sometimes it is blank, but do not worry about it, once the local server load is complete it will automatically refresh it. If it is still blank after the local server is loaded, then you simply need to press the refresh button on your internet browser. 
+- You can manually access your local server by type URL : http://127.0.0.1:8080 on your internet browser
+
+
+Happy AI and cheers,
+
+CRubino (Chris Rubino)
