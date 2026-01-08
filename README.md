@@ -18,7 +18,7 @@ How to use:
 - You can manually access your local server by type URL : http://127.0.0.1:8080 on your internet browser
 
 General notes:
-- In mid-end PC, it may generate 3D models fast but take a longer time to create its texture.
+- In mid-end PCs, it may generate 3D models fast but it will take a longer time to create its texture.
 - The full version (with 3 options fully installed) will need up to 50GB of your SSD space. Therefore, if you have a limited space, then please just choose and run only one option of them. 
 - The option with text input will have 2-3x larger AI model files which need to be downloaded from Huggingface. It also needs 2-3x times CPU/GPU resources as command prompt will need longer time to be processed than image based AI prompt.
 
